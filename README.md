@@ -1,5 +1,15 @@
 # Delta-Sharing-in-Databricks
 
+uploaded CSV file manually in data bricks 
+
+<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/30c55fab-26cf-467a-b114-1593be5b7364" />
+
+Connector created and active between Salesforce and Databricks
+
+<img width="400" height="85" alt="image" src="https://github.com/user-attachments/assets/ed16dcfb-a868-412c-8dd0-dba7c4711df2" />
+
+
+
 Step1: workspace --> manage permissions
 
 <img width="400" height="105" alt="image" src="https://github.com/user-attachments/assets/7fb3c3db-eaf2-41e3-956d-d0bf80a1f0a5" />
